@@ -1,6 +1,6 @@
 {
   "name": "react-portfolio",
-  "author": "Ryan Cowles"
+  "author": "Ryan Cowles",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
