@@ -1,0 +1,24 @@
+{
+  "name": "react-portfolio",
+  "author": "Ryan Cowles"
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/icons": "^1.0.0-beta.42",
+    "bootstrap": "^3.3.7",
+    "material-ui": "^1.0.0-beta.41",
+    "npm": "^6.0.0",
+    "react": "^16.3.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.1",
+    "react-router-dom": "^4.2.2",
+    "react-router-hash-link": "^1.2.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
